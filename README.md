@@ -4,9 +4,11 @@
 [![mmi's github stats](https://github-readme-stats.vercel.app/api?username=miranda0111&show_icons=true)](https://github.com/miranda0111)
 
 青龙拉库方法：
-1 老版本青龙（不带订阅）
+* 1 老版本青龙（不带订阅）
 ql repo https://github.com/yidongxu125/xmydsbs.git "xmydsbs" "" "sendNotify"
-2  新版本青龙
+
+
+* 2  新版本青龙
 订阅地址：http://gh.301.ee/https://github.com/yidongxu125/xmydsbs.git
 公开仓库
 白名单：xmydsbs
