@@ -9,7 +9,7 @@
     cron: 2 22 * * *    xmydsbs.py
 
     ================== 青龙--配置文件 ==================
-    拉库：https://github.com/miranda0111/xmydsbs.git "xmydsbs" "" "sendNotify"
+    拉库：https://github.com/yidongxu125/xmydsbs.git "xmydsbs" "" "sendNotify"
     ql repo <repourl> <path> <blacklist> <dependence> <branch>
     对应意思“库地址”“拉哪些”“不拉哪些”“依赖文件”“分支”
     拉取(js py ts)后缀的请在青龙 配置文件 config.sh 文件中修改
