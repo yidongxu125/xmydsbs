@@ -3,6 +3,14 @@
 
 [![mmi's github stats](https://github-readme-stats.vercel.app/api?username=miranda0111&show_icons=true)](https://github.com/miranda0111)
 
+青龙拉库方法：
+1 老版本青龙（不带订阅）
+ql repo https://github.com/yidongxu125/xmydsbs.git "xmydsbs" "" "sendNotify"
+2  新版本青龙
+订阅地址：http://gh.301.ee/https://github.com/yidongxu125/xmydsbs.git
+公开仓库
+白名单：xmydsbs
+
 * 这里的脚本只是自己学习 py 的一个实践
 * 仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
 * 仓库内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
