@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*
 """
 
-    link: https://raw.githubusercontent.com/miranda0111/xmydsbs/main/xmydsbs.py
+    link: https://raw.githubusercontent.com/yidongxu125/xmydsbs/main/xmydsbs.py
     Name: 刷步数
     Author: miranda0111
     Date: Fri Jan 20 
